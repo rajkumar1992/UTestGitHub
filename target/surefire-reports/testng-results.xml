@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="pageTest.UPageTest" duration-ms="13798" started-at="2019-11-01T15:31:09 IST" finished-at="2019-11-01T15:31:23 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13798" started-at="2019-11-01T15:31:09 IST" finished-at="2019-11-01T15:31:23 IST">
+      <class name="pageTest.UPageTest">
+        <test-method status="PASS" signature="inIt()[pri:0, instance:pageTest.UPageTest@1a968a59]" name="inIt" is-config="true" duration-ms="11601" started-at="2019-11-01T15:31:09 IST" finished-at="2019-11-01T15:31:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="test()[pri:0, instance:pageTest.UPageTest@1a968a59]" name="test" duration-ms="2169" started-at="2019-11-01T15:31:21 IST" finished-at="2019-11-01T15:31:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- pageTest.UPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- pageTest.UPageTest -->
+</testng-results>
